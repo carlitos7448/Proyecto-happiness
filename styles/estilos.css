@@ -1,0 +1,517 @@
+* {
+    margin: 0%;
+}
+
+.nave {
+    display: flex;
+    background-color: rgb(255, 204, 0);
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.nave img {
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+
+.nave2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 60px;
+    margin-top: 30px;
+}
+
+/* SEGUNDA PARTE */
+
+.cont {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 90px;
+    margin-left: 80px;
+    margin-bottom: 300px;
+}
+
+.how {
+    width: 500px;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+
+.how h1 {
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+}
+
+.how p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+}
+
+button {
+    background-color: rgb(255, 204, 0);
+    width: 150px;
+    padding: 10px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+}
+
+/* TERCERA PARTE */
+
+.cont2 {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(211, 211, 211);
+    width: 1200px;
+    margin-left: -350px;
+    margin-top: -720px;
+    padding-bottom: 100px;
+    box-shadow: 4px 4px 8px rgba(9, 0, 0, 0.3);
+}
+
+.happ {
+    width: 350px;
+    margin-right: 180px;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+
+.happ h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 204, 0);
+}
+
+.happ p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+}
+
+.happ h3 {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.dos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 90px;
+    margin-top: 90px;
+}
+
+/* TERCERA CUARTA PARTE */
+
+.Color_amarillo {
+    background-color: rgb(255, 204, 0);
+    padding: 500px;
+    padding-bottom: 100px;
+}
+
+.Cuartaa {
+    margin-top: 150px;
+}
+
+.we {
+    width: 700px;
+    margin-left: -400px;
+}
+
+.we h1 {
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+.we p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+}
+
+.boton button {
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
+
+.cuarta img {
+    margin-top: -200px;
+    margin-left: 120px;
+}
+
+/* QUINTA PARTE */
+
+.HAPPINESS {
+    margin: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(237, 236, 236);
+    box-shadow: 4px 4px 8px rgba(9, 0, 0, 0.3);
+}
+
+.des {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.ha {
+    width: 500px;
+}
+
+.ha h1 {
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 204, 0);
+}
+
+.ha p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+}
+
+.des img {
+    margin-top: 10px;
+    margin-left: 250px;
+    width: 270px;
+}
+
+/* SEXTA PARTE */
+
+.abo {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tis {
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.tis h1 {
+    color: rgb(255, 204, 0);
+    margin-bottom: 10px;
+}
+
+.tis p {
+    color: white;
+    text-align: center;
+}
+
+.abo img {
+    margin-left: 350px;
+    margin-bottom: 40px;
+    width: 800px;
+    height: 500px;
+}
+
+.abo button {
+    margin-left: 670px;
+    margin-bottom: 50px;
+}
+
+/* SEPTIMA PARTE */
+
+.con3 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 140px;
+    margin-left: 100px;
+}
+
+.con3 img {
+    width: 700px;
+    height: 600px;
+    margin-bottom: 130px;
+}
+
+.our {
+    width: 450px;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+
+.our h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+}
+
+.our p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+}
+
+/* OCTAVA PARTE */
+
+.try {
+    background-color: rgb(223, 220, 220);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.try img {
+    margin-top: 100px;
+    width: 670px;
+    margin-bottom: 100px;
+}
+
+.no {
+    width: 500px;
+    margin-top: 300px;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+.no h1 {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+.no p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 50px;
+}
+
+/* NOVENA PARTE */
+
+.cont3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+    background-color: #fff;
+    font-family: "Poppins", sans-serif;
+}
+
+.co {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+.formulario {
+    background-color: #000;
+    color: #fff;
+    padding: 40px 50px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.formulario form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.fila {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.campo label {
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.campo input,
+.campo textarea {
+    border: 2px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    padding: 5px 0px;
+    font-size: 16px;
+}
+
+.campo input:focus,
+.campo textarea:focus {
+    border-color: #FFD700;
+}
+
+.texto-form {
+    font-size: 14px;
+    color: #ccc;
+    line-height: 1.4;
+    margin-top: 20px;
+}
+
+.sub {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    max-width: 500px;
+}
+
+.sub h1 {
+    color: #FFD700;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 20px;
+}
+
+.sub p {
+    color: #000;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+
+.boton button {
+    background-color: #000;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+    padding: 12px 40px;
+}
+
+/* DECIMA PARTE */
+
+.cont4 {
+    background-color: rgb(255, 204, 0);
+}
+
+.c {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.c h1 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.c p {
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+}
+
+.cont4 img {
+    margin-left: 170px;
+}
+
+.cont4 button {
+    margin-left: 650px;
+    margin-bottom: 50px;
+}
+
+/* ONCEAVA PARTE */
+
+.footer {
+    background-color: #000;
+    color: #FFD700;
+    font-family: "Poppins", sans-serif;
+    border-top: 6px solid #FFD700;
+    padding: 60px 80px 40px;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.footer-logo {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer-logo img {
+    width: 130px;
+    height: auto;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 120px;
+    flex-wrap: wrap;
+}
+
+.footer-left,
+.footer-right {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.footer-left h2,
+.footer-right h2 {
+    font-size: 22px;
+    color: #FFD700;
+    margin: 0;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.footer-left h2:hover,
+.footer-right h2:hover {
+    color: #fff;
+}
+
+.footer-line {
+    width: 100%;
+    height: 1px;
+    background-color: #fff;
+}
+
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer-bottom h3 {
+    font-size: 18px;
+    color: #FFD700;
+    margin: 0;
+}
+
+.footer-social {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer-social img {
+    width: 28px;
+    height: 28px;
+}
